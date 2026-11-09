@@ -1,0 +1,14 @@
+.Rproj.user
+rsconnect/
+*/scratchpad.R
+*.DS_Store
+*/~$*.docx
+scratchpad.R
+.Rhistory
+*_files/
+*.pdf
+*.html
+*.xlsx
+*.docx
+*.pptx
+
