@@ -1,10 +1,13 @@
-.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
 rsconnect/
 */scratchpad.R
 *.DS_Store
 */~$*.docx
 scratchpad.R
-.Rhistory
 *_files/
 *.pdf
 *.html
